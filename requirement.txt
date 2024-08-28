@@ -1,0 +1,6 @@
+streamlit
+pillow
+paddleocr
+torch
+ultralytics
+numpy
